@@ -3,5 +3,5 @@
 >
  Dicas de _Git/GitHub.
  
- ## Links 
+ ## Links da Linguagem Markdown
  [Aprendendo Markdown](https://www.markdownguide.org/basic-syntax/)
